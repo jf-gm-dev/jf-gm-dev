@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Fernando Gómez@jf-gm-dev
+- 👀 I’m interested in web development, data science and robotics.
